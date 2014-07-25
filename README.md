@@ -1,4 +1,5 @@
-XcodeBot-vs-Jenkins
+XcodeBot and Jenkins
 ===================
 
-Xcode Bot and Jenkins comparison
+####Xcode Bot and Jenkins features
+
