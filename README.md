@@ -1,5 +1,6 @@
 XcodeBot and Jenkins
 ===================
+(Note: This overview was published in early 2014, so the parts of content could be obsolete)
 
 ####Xcode Bot and Jenkins Overview
 
